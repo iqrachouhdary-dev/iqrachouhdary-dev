@@ -22,7 +22,7 @@ I'm passionate about building modern web applications, web scraping tools, and A
 - 🌱 Currently learning **Next.js, Playwright & Python**
 - 💻 Building **Frontend & SaaS Projects**
 - 🤖 Interested in **AI & Automation**
-- 📍 Pakistan
+- 📍  Bahawalpur, Pakistan
 
 ---
 
@@ -70,15 +70,14 @@ I'm passionate about building modern web applications, web scraping tools, and A
 ## 📌 Featured Projects
 
 - 🌐 Portfolio Website
-- 🛒 Price Watch
-- 🤖 Brain Tumor Detection
-- 🕸️ Web Scraping Projects
-
----
-
+- 🛒 Price Watch – Full-Stack Price Monitoring Platform
+- 🧠 Brain Tumour Detection Using Deep Learning (CNN, ANN, FFNN, GRU & Vision Transformer)
+- 🤖 Web Scraping Automation with Python & Playwright
+- 🚀 SaaS Voice Search & Metadata Platform (In Progress)
+  
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/iqrachouhdary-dev
-- LinkedIn: https://www.linkedin.com/in/iqrachouhdary/
-- Gmail: chouhdaryiqra@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/iqrachouhdary/
+- 💻 GitHub: https://github.com/iqrachouhdary-dev
+- 📧 Email: chouhdaryiqra@gmail.com
 
