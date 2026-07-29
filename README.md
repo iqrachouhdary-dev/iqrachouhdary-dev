@@ -47,7 +47,7 @@ I'm passionate about building modern web applications, web scraping tools, and A
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iqrachouhdary-dev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=iqrachouhdary-dev&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -55,6 +55,6 @@ I'm passionate about building modern web applications, web scraping tools, and A
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqrachouhdary-dev&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=iqrachouhdary-dev&layout=compact&theme=tokyonight" />
 </p>
 
