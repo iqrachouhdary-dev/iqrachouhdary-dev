@@ -42,3 +42,19 @@ I'm passionate about building modern web applications, web scraping tools, and A
 
 - GitHub: https://github.com/iqrachouhdary-dev
 - LinkedIn: https://www.linkedin.com/in/iqrachouhdary/
+
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iqrachouhdary-dev&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=iqrachouhdary-dev&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqrachouhdary-dev&layout=compact&theme=tokyonight" />
+</p>
+
