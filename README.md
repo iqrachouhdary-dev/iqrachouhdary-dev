@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Iqra Chouhdary
 
-<!--
-**iqrachouhdary-dev/iqrachouhdary-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Frontend Developer | AI Student | Web Scraping Enthusiast
 
-Here are some ideas to get you started:
+I'm passionate about building modern web applications, web scraping tools, and AI projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🌱 Currently learning **Next.js, Playwright & Python**
+- 💻 Building **Frontend & SaaS Projects**
+- 🤖 Interested in **AI & Automation**
+- 📍 Pakistan
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML
+- CSS
+- Tailwind CSS
+- JavaScript
+- Python
+- Git
+- GitHub
+- Next.js
+- Playwright
+
+---
+
+## 📌 Featured Projects
+
+- 🌐 Portfolio Website
+- 🛒 Price Watch
+- 🤖 Brain Tumor Detection
+- 🕸️ Web Scraping Projects
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/iqrachouhdary-dev
+- LinkedIn: https://www.linkedin.com/in/iqrachouhdary/
